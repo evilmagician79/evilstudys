@@ -1,0 +1,2 @@
+# evilstudys
+learning redhat
